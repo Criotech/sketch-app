@@ -10,12 +10,12 @@ A simple tool collaborative sketch / collaborative white board
 
 ## Running
 
-Clone this repo, and cd into it, Then to run client :
+Frontend Clone frontend repo, and cd into it, Then to run :
 
 ### `yarn install`
 ### `yarn run dev`
 
-Clone this repo, and cd into it, Then to run client :
+Backend: Clone backend repo, and cd into it, Then to run :
 
 ### `tsc`
 ### `nodemon start`
